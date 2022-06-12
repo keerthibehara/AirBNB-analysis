@@ -6,17 +6,29 @@ We have started with loading the data so far, we have done EDA, null values trea
 # Objective
 There are a large number of listings available throughout the year. Our objective is to perform analysis on these listings so that we get meaningful insights.
 We try to draw conclusions from our dataset by performing various operations on the various parameters given to us. We have performed:
+
 Visualization of the different neighbourhood groups based on latitudes and longitudes
+
 Correlation of price with other independent variables
+
 Comparing the average prices of different neighbourhood groups
+
 Comparing the average prices of different neighbourhoods and finding the top 10 neighbourhoods
+
 Comparing different room types with the prices based on the neighbourhood groups
+
 Relationship between hosts and areas
+
 Hosts that have maximum listing
+
 Finding the busiest hosts
+
 Most reviewed hosts
+
 Neighbourhood Groups and their availability
+
 Room Types and their availability
+
 Average stay in each room types
 
 
@@ -45,15 +57,26 @@ In order to load the data, we have to mount the drive. After mounting the drive,
 
 # Result
 The following are conclusions drawn from the Exploratory Data Analysis:
+
 Manhattan is the predominant neighbourhood group of them all as it is the most  expensive and the busiest of them all.
-Fort Wadsworth that belongs to Staten Island is the costliest neighbourhood with a whopping average price of 800 dollars. This could because it might be located far away from the buzz making it the most ideal location for a calm vacation.
+
+Fort Wadsworth that belongs to Staten Island is the costliest neighbourhood with a whopping average price of 800 dollars. This could because it might be located far 
+away from the buzz making it the most ideal location for a calm vacation.
+
 The most preferred room type is Entire home/apartment, that might be because people might want a homely atmosphere.
+
 Brooklyn and Manhattan have the highest number of hosts. These two neighbourhoods might have people commuting for mostly work and vacations.
+
 Bronx and Queens are two neighbourhoods that stand as mediocre.
+
 Sonder (NYC) has the greatest number of listings
+
 Row (NYC) is the most reviewed host
+
 Staten Island is the neighbourhood that is most available of all the others. This makes Manhattan and Brooklyn the busiest.
+
 Shared rooms have the most availability, probably because people prefer their privacy and prefer staying in entire homes or private rooms.
+
 The average stay in an entire home is 8 nights and private rooms is around 5 to 6 nights.
 
 
