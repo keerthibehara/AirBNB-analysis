@@ -1,4 +1,4 @@
-# AirBNB-analysis
+# AirBNB Booking Analysis
 
 ![image](https://user-images.githubusercontent.com/99960098/174495792-01e5b36e-8b6e-4120-b2b9-9a4f18eba4b2.png)
 
