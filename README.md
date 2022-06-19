@@ -1,5 +1,8 @@
 # AirBNB-analysis
 
+![image](https://user-images.githubusercontent.com/99960098/174495792-01e5b36e-8b6e-4120-b2b9-9a4f18eba4b2.png)
+
+
 # Summary
 We have started with loading the data so far, we have done EDA, null values treatment, and bringing out the conclusions from our analysis
 
